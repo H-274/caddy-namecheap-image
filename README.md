@@ -1,1 +1,1 @@
-"# caddy-namecheap-image" 
+# caddy-namecheap-image
